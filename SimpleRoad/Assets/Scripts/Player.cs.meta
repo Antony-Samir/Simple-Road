@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 727f3246c8db71f4eb6801799f6612ef
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - WinText: {instanceID: 0}
+  - MarioPowerUp: {fileID: 1078179623431643281, guid: 72a703593c5999d4d926037cbc696223,
+      type: 3}
+  - _audioClipWin: {instanceID: 0}
+  - _audioClipPowerUp: {instanceID: 0}
+  - _audioClipDie: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d3f2288f25d46f24ebeb0284fff3755e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - WinText: {fileID: 5660834120148726238, guid: dc091392af35cdd4eb67235c597d836d,
+      type: 3}
+  - _audioClipWin: {instanceID: 0}
+  - _audioClipDie: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
